@@ -1,12 +1,12 @@
 
 # Spotify Dataset Analysis
 
-##Project Overview:
+A.Project Overview:
 
 This project analyzes Spotify’s dataset to understand patterns and relationships in song features such as popularity, danceability, energy, loudness, acousticness, and tempo.
 It includes both univariate analysis (examining individual variables) and bivariate analysis (exploring relationships between two variables) to gain deeper insights into how musical attributes affect song performance and listener preferences.
 
-###The main goals of this project are to:
+B.The main goals of this project are to:
 
 Explore trends and distributions of key Spotify features.
 
@@ -14,7 +14,7 @@ Identify correlations between numerical and categorical variables.
 
 Visualize patterns that influence popularity and listener engagement.
 
-Analysis Performed
+C.Analysis Performed
 1️. Univariate Analysis
 
 Distribution of single features (e.g., popularity, energy, danceability)
