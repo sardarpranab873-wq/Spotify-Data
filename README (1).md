@@ -1,12 +1,12 @@
 
 # Spotify Dataset Analysis
 
-A.Project Overview:
+A. Project Overview:
 
 This project analyzes Spotify’s dataset to understand patterns and relationships in song features such as popularity, danceability, energy, loudness, acousticness, and tempo.
 It includes both univariate analysis (examining individual variables) and bivariate analysis (exploring relationships between two variables) to gain deeper insights into how musical attributes affect song performance and listener preferences.
 
-B.The main goals of this project are to:
+B. The main goals of this project are to:
 
 Explore trends and distributions of key Spotify features.
 
@@ -14,7 +14,7 @@ Identify correlations between numerical and categorical variables.
 
 Visualize patterns that influence popularity and listener engagement.
 
-C.Analysis Performed
+C. Analysis Performed
 1️. Univariate Analysis
 
 Distribution of single features (e.g., popularity, energy, danceability)
@@ -31,6 +31,25 @@ Relationship between categorical and numerical variables (e.g., genre vs. popula
 
 Visualization techniques: scatter plots, heatmaps, pair plots, grouped bar charts
 
+D. Instructions for Running the Notebook
+1. Prerequisites
+
+Before running the notebook, make sure you have the following installed:
+
+Python 3.8+
+
+Jupyter Notebook or Google Colab
+2. Download as ZIP:
+
+Click the “Code” button on the GitHub repository.
+
+Choose “Download ZIP” and extract the files.
+Open the Notebook
+3.In Jupyter or Colab
+
+Click “Run All” (or use Ctrl + F9)
+
+Each cell will execute sequentially, generating analysis results and visualizations.
 
 
 
