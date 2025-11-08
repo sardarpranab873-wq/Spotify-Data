@@ -30,3 +30,10 @@ Correlation between numerical variables (e.g., energy vs. loudness, danceability
 Relationship between categorical and numerical variables (e.g., genre vs. popularity)
 
 Visualization techniques: scatter plots, heatmaps, pair plots, grouped bar charts
+
+
+
+
+Pranab Sardar
+Data Analysis Project – Spotify Dataset
+
